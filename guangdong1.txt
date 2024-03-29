@@ -198,7 +198,6 @@ CCTV15,http://219.135.208.218:8083/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1
 广东新闻,http://219.135.208.218:8083/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
 广东公共,http://219.135.208.218:8083/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://219.135.208.218:8083/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-广东国际,http://219.135.208.218:8083/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 广东经济科教,http://219.135.208.218:8083/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 广东南方卫视,http://219.135.208.218:8083/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 广东综艺,http://219.135.208.218:8083/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
